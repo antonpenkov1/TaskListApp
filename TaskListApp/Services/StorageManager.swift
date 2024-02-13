@@ -36,5 +36,5 @@ final class StorageManager {
             }
         }
     }
-    
+
 }

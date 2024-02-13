@@ -63,8 +63,8 @@
 				D2BF01D02B7AB18F0033C964 /* Services */,
 				D2BF01CC2B7AB14C0033C964 /* ViewControllers */,
 				D2BF01CF2B7AB17F0033C964 /* Factories */,
-				A8F9D4DE2B79350600B80334 /* LaunchScreen.storyboard */,
 				D2BF01CD2B7AB15F0033C964 /* App */,
+				A8F9D4DE2B79350600B80334 /* LaunchScreen.storyboard */,
 				A8F9D4DC2B79350600B80334 /* Assets.xcassets */,
 				A8F9D4D92B79350400B80334 /* TaskListApp.xcdatamodeld */,
 			);
